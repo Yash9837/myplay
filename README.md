@@ -1,4 +1,4 @@
-# 🎵 Loopin - Professional iOS Music Player
+# 🎵 myplay - Professional iOS Music Player
 
 A sophisticated, production-ready iOS music player built with **SwiftUI** and **MVVM architecture**, demonstrating advanced iOS development patterns and real-world audio handling capabilities.
 
@@ -224,4 +224,5 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 **Built with ❤️ using SwiftUI and Combine**
 
 *This project demonstrates advanced iOS development patterns and real-world audio application capabilities suitable for professional assessment and production deployment.*
+
 # myplay
