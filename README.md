@@ -27,6 +27,11 @@ A sophisticated, production-ready iOS music player built with **SwiftUI** and **
 <img width="395" height="800" alt="Screenshot 2025-08-06 at 01 41 28" src="https://github.com/user-attachments/assets/099f1174-cdf2-4d85-9371-b607800937b5" />
 <img width="384" height="783" alt="Screenshot 2025-08-06 at 01 40 52" src="https://github.com/user-attachments/assets/a0c38ff3-cb0e-468c-a15b-99ebcfc6582d" />
 
+<img width="389" height="789" alt="Screenshot 2025-08-06 at 01 41 11" src="https://github.com/user-attachments/assets/3be99bf4-b723-4c26-b062-278c6b8e7013" />
+<img width="387" height="788" alt="Screenshot 2025-08-06 at 01 41 38" src="https://github.com/user-attachments/assets/684634e8-384c-4c3e-bc31-4c3693dbf0cb" />
+
+
+
 
 
 ### **Main Interface**
@@ -231,4 +236,5 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 *This project demonstrates advanced iOS development patterns and real-world audio application capabilities suitable for professional assessment and production deployment.*
 
 # myplay
+
 
